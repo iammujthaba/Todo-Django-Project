@@ -1,0 +1,42 @@
+.banner {
+    background-color: #588fd6;
+    width: 100%;
+    height: 120px;
+    margin-bottom: 50px;
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+  }
+  
+  .bannertext {
+    text-align: center; /* Center text horizontally */
+  }
+  
+  h1 {
+    margin: 0; /* Remove default margin to ensure accurate centering */
+    font-family: 'Arial', sans-serif; /* Example font family */
+    font-size: 36px; /* Example font size */
+    font-weight: bold; /* Example font weight */
+    color: #ffffff; /* Example font color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Example text shadow */
+  }
+  
+  
+
+
+  
+/* Instagram Icon */
+.bi-instagram {
+    color: #C13584; /* Instagram brand color */
+  }
+  
+  /* WhatsApp Icon */
+  .bi-whatsapp {
+    color: #25D366; /* WhatsApp green color */
+  }
+  
+  /* GitHub Icon */
+  .bi-github {
+    color: #333; /* GitHub black color */
+  }
+  
